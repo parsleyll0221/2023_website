@@ -6,7 +6,7 @@ function VisualWrap() {
     return (
         <div className='bg-light mb-3'>
             <div className='visualWrap'>
-                <Container className='d-lg-flex justify-content-lg-between align-items-lg-center flex-lg-row d-flex flex-column align-items-center py-4 px-4'>
+                <Container className='d-lg-flex justify-content-lg-between align-items-lg-center flex-lg-row d-flex flex-column align-items-center py-4'>
                     <div>
                         <p><h3>Lorem</h3></p>
                         <p>Lorem ipsum dolor sit amet</p>
