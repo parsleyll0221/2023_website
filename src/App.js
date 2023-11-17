@@ -1,5 +1,6 @@
 import './App.css';
 import Header from './Components/Header';
+import TitleBox from './Components/TtitleBox';
 import VisualWrap from './Components/VisualWrap';
 
 
@@ -8,6 +9,8 @@ function App() {
     <div className="App">
       <Header />
       <VisualWrap />
+      <TitleBox />
+      {/*  */}
     </div>
   );
 }
