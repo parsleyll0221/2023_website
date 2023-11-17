@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header><p>sdf</p></header>
+      <header className="App-header">
+      </header>
     </div>
   );
 }
