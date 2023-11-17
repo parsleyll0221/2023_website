@@ -15,14 +15,14 @@ function Content() {
                     </Col>
                     <Col sm={12} lg={6} className='banner order-1 order-lg-2 rounded'>
                         <div className='d-flex justify-content-center'>
-                            <img src="./logo512.png" className='img001' />
+                            <img src="../logo512.png" alt='' className='img001' />
                         </div>
                     </Col>
                 </Row>
                 <Row className='d-flex justify-content-between align-items-center'>
                     <Col sm={12} lg={6} className='banner order-2 order-lg-1 rounded'>
                         <div className='d-flex justify-content-center'>
-                            <img src="./logo512.png" className='img001' />
+                            <img src="../logo512.png" alt='' className='img001' />
                         </div>
                     </Col>
                     <Col sm={12} lg={4} className='order-lg-1 order-2  d-flex justify-content-center align-items-start'>
