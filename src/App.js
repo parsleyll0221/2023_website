@@ -12,7 +12,7 @@ function App() {
       <VisualWrap />
       <TitleBox />
       <Content />
-      
+
     </div>
   );
 }
